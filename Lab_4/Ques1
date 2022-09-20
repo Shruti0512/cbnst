@@ -1,4 +1,4 @@
-/* Find the approximate root of the equation x^3-4*x-9 upto 4 decimal places.*/
+/* Find the approximate root of the equation x^3-4*x-9 upto 4 decimal places by Regular Falsi Method.*/
 
 #include<stdio.h>
 #include<conio.h>
