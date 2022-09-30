@@ -1,4 +1,4 @@
-/*Find the real roots of equation x^3-4x-9 by biception method correct upto 3 decimal places.*/
+/*Find the real roots of equation x^3-4x-9 by bisection method correct upto 3 decimal places.*/
 
 
 
