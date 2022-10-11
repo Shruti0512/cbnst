@@ -1,4 +1,4 @@
-/*Calculate the value of variables using Gauss Elimination Method.
+//Calculate the value of variables using Gauss Elimination Method.
 
 #include<iostream>
 using namespace std;
