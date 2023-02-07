@@ -43,7 +43,6 @@ int main()
     }
     
     x[n-1] = arr[n-1][n] / arr[n-1][n-1];
-    //cout<<" "<<x[n-1]<<endl;
     double s=0;
     for(int i=n-2; i>=0; i--)
     {
